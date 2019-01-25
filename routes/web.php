@@ -17,7 +17,7 @@ Route::get('/', function () {
 
 /* ROTAS PARA A API */
 Route::prefix('api')->group(function () {
-    Route::get('teste', 'BuscaController@index')->name('teste');
+    
     Route::prefix('veiculos')->group(function () {        
 
         // visualiza dados de veiculo especifico
