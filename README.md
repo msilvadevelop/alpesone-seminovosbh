@@ -1,10 +1,6 @@
 # SeminovosBH RESTFul API
 
-
-
-The API is [REST API](http://en.wikipedia.org/wiki/Representational_State_Transfer "RESTful")
-and uses [OAuth](http://oauth.net/ "OAuth") 1.0a for user authentication purposes.
-Currently, return format for all endpoints is [JSON](http://json.org/ "JSON").
+API RESTFul para consulta interativa e dinâmica de veículos comercializados pelo SeminovosBH.
 
 ***
 
