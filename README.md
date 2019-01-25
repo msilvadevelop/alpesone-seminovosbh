@@ -6,7 +6,7 @@ API RESTFul para consulta interativa e dinâmica de veículos comercializados pe
 
 ## URL Base
 
-Todos os métodos disponibilizados nessa API deverão ser preceditos pela URL Base. 
+Todos os métodos disponibilizados nessa API deverão ser precedidos pela ``URL Base``. 
 A URL Base a ser utilizada é **/api/veiculos**.
 
 Exemplo: **/api/veiculos**/visualizar/:id
