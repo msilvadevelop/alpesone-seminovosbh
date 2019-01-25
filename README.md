@@ -1,6 +1,6 @@
 # SeminovosBH RESTFul API
 
-API RESTFul para consulta interativa e dinâmica de veículos comercializados pelo SeminovosBH.
+API RESTFul para consulta interativa e dinâmica de veículos comercializados pelo SeminovosBH. Desenvolvida em ```Laravel 5.7.22``` e ``PHP 7.1.7``
 
 ***
 
